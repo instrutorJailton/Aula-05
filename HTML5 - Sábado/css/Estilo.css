@@ -1,0 +1,43 @@
+h1{
+    color: red; 
+    font-family: Comic Sans MS;
+    font-size: 4em; 
+    font-weight: bold;
+}
+
+body{
+    background-color: black;
+    color:rgb(131, 239, 253);
+}
+
+a{
+    color: yellow;
+    font-family:Ink Free;
+    font-size: 4em;
+}
+
+#resposta{
+    color: black;
+}
+
+#primeira{
+    width: 300px;
+    height: 200px; 
+    border-color: chartreuse;
+    border: 3px solid;
+
+
+}
+
+#Segunda{
+    width: 1920px;
+    height: 200px; 
+    
+}
+
+
+
+div{
+    font-weight: bold;
+    font-family: Ink Free;
+}

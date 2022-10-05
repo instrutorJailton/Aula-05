@@ -1,0 +1,37 @@
+main h1{
+    color: red;
+    font-family: Ink Free;
+    font-size: 5em;
+
+
+}
+
+header {
+    font-size: 3em;
+    font-weight:bold;
+    text-shadow: 20px, red;
+}
+
+h1{
+    color: blueviolet;
+    font-family: Comic Sans MS;
+    font-size: 5em;
+}
+main p{
+    font-weight: bold;
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgrey;
+}
+
+main{
+    background-color: darkcyan;
+}
+
+
+#Mario:hover{
+    filter:grayscale(100%);
+}
+#Sonic:hover{
+    opacity: 0.3;
+}
